@@ -28,7 +28,17 @@
 
 - (void)testExample
 {
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    expect(1).to.equal(1);
+}
+
+- (void)testExample2
+{
+    expect(@"xxx").to.equal(@"xxx");
+}
+
+- (void)testFailed
+{
+    //expect(1).to.equal(2);
 }
 
 @end

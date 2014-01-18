@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-CocoaPodsProjectSampleTests-Expecta.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CocoaPodsProjectSampleTests-SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CocoaPodsProjectSampleTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>11C886E4210D4A228A4A4F1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A59059D49E041E28605964C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6DC21DB8B1274B75A4396358</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8E3B92705CD34B7DAC23489F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1775F9079F04CE2936DCD30</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
