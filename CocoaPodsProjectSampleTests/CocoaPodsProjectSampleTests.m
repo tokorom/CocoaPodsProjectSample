@@ -7,6 +7,8 @@
 //
 
 #import <XCTest/XCTest.h>
+#define EXP_SHORTHAND
+#import "Expecta.h"
 
 @interface CocoaPodsProjectSampleTests : XCTestCase
 
@@ -38,7 +40,7 @@
 
 - (void)testFailed
 {
-    //expect(1).to.equal(2);
+    expect(1).to.equal(2);
 }
 
 @end
